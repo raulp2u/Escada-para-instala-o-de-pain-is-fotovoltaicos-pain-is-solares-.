@@ -1,4 +1,4 @@
-# Escada para instalacao de paineis solares
+# Escada para instalação de painéis solares.
 Este sistema é um esboço o protótipo seguiu para uso futuro de acadêmicos da UFSM-CS. 
 Para maiores de detalhes sobre código e circuito eletrônico entre em contato comigo atraves do e-mail: raul.leite@acad.ufsm.br
 ![PROJ__INTEGRADOR_1 pronto pronto_removed 1_page-0001](https://github.com/raulp2u/Escada-para-instala-o-de-pain-is-fotovoltaicos-pain-is-solares-./assets/37675435/f70e755a-b759-485b-9fa4-edda893f704d)
